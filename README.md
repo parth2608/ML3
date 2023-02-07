@@ -1,1 +1,3 @@
 # ML3
+
+I simulated a binary classification problem by generating class labels and predictor estimates using a random number generator. I plotted ROC and Precision-Recall curves and compared them with sklearn results. I loaded the iris dataset and trained a Random Forest classifier with Randomized Search and Grid Search to tune the parameters. I analyzed the impact of each tuning parameter and found the best estimators. I evaluated the performance using 10-fold cross-validation. I implemented the Hierarchical Agglomerative Clustering (HAC) algorithm and tested it with univariate data. Finally, I fitted the HAC model to the iris dataset and printed the hierarchy of cluster dendrograms.
